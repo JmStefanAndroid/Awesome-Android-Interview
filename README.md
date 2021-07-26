@@ -4,7 +4,7 @@ A awesome  android expert interview questions and answers
 <img src="https://user-images.githubusercontent.com/30379002/46050218-6f81cc80-c0f8-11e8-9304-ac77597e0e49.jpg">
 </div>
 
-> 从几十份顶级面试仓库和300多篇高质量面经中总结出一份全面成体系化的Android高级面试题集。
+> 从几十份顶级面试仓库和300多篇高质量面经中总结出一份全面成体系化的Android高级。
 
 
 ## 前言
@@ -31,7 +31,7 @@ A awesome  android expert interview questions and answers
 
 ## Contents
 
-### 计算机基础面试题
+### 计算机基础
 
 * [网络](https://github.com/JsonChao/Awesome-Android-Interview/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E7%BD%91%E7%BB%9C%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -40,12 +40,12 @@ A awesome  android expert interview questions and answers
 * [数据库](https://github.com/JsonChao/Awesome-Android-Interview/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E5%BA%93%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
 
-### 数据结构和算法面试题
+### 数据结构和算法
 
 * [数据结构和算法](https://github.com/JsonChao/Awesome-Android-Interview/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95.md)
 
 
-### Java面试题
+### Java
 
 * [Java基础](https://github.com/JsonChao/Awesome-Android-Interview/blob/master/Java%E7%9B%B8%E5%85%B3/Java%E5%9F%BA%E7%A1%80%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -54,7 +54,7 @@ A awesome  android expert interview questions and answers
 * [Java虚拟机](https://github.com/JsonChao/Awesome-Android-Interview/blob/master/Java%E7%9B%B8%E5%85%B3/Java%E8%99%9A%E6%8B%9F%E6%9C%BA%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
 
-### Android面试题
+### Android
 
 * [Android基础](https://github.com/JsonChao/Awesome-Android-Interview/blob/master/Android%E7%9B%B8%E5%85%B3/Android%E5%9F%BA%E7%A1%80%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -63,9 +63,9 @@ A awesome  android expert interview questions and answers
 
 ### 其它
 
-* [其他扩展面试题](https://github.com/JsonChao/Awesome-Android-Interview/blob/master/%E5%85%B6%E5%AE%83/%E5%85%B6%E5%AE%83%E6%89%A9%E5%B1%95%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+* [其他扩展](https://github.com/JsonChao/Awesome-Android-Interview/blob/master/%E5%85%B6%E5%AE%83/%E5%85%B6%E5%AE%83%E6%89%A9%E5%B1%95%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
-* [非技术面试题](https://github.com/JsonChao/Awesome-Android-Interview/blob/master/%E5%85%B6%E5%AE%83/%E9%9D%9E%E6%8A%80%E6%9C%AF%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+* [非技术](https://github.com/JsonChao/Awesome-Android-Interview/blob/master/%E5%85%B6%E5%AE%83/%E9%9D%9E%E6%8A%80%E6%9C%AF%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
 
 ## 结语
@@ -73,53 +73,6 @@ A awesome  android expert interview questions and answers
 其实，在面试中，很多题目并没有真正的答案，你能回答到什么样的深度，还是得靠自己真正的去使用和研究。知识的深度和广度都很重要，所以都需要花相应的时间去学习。这样，就算被问到自己不熟悉的领域也可以同面试官唠嗑两句，然后可以在适当的时机引向自己有深入研究的领域，让面试官觉得你是这个领域的专家。
 
 
-## 公众号
-
-我的公众号 `JsonChao` 开通啦，如果您想第一时间获取最新文章和最新动态，欢迎扫描关注~
-
-<div align="center">
-<img src="https://user-gold-cdn.xitu.io/2020/6/11/172a29b8b626ef93?w=258&h=258&f=jpeg&s=28705" width=30%>
-</div>
-
-
-## 赞赏
-
-如果这个库对您有很大帮助，您愿意支持这个项目的进一步开发和这个项目的持续维护。你可以扫描下面的二维码，让我喝一杯咖啡或啤酒。非常感谢您的捐赠。谢谢！
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/JsonChao/Awesome-Android-Interview/master/screenshot/wexin_play.jpg" width=20%><img src="https://raw.githubusercontent.com/JsonChao/Awesome-Android-Interview/master/screenshot/Apaliy.jpg" width=20%>
-</div>
-
-
-----
-
-## Contanct Me
-
-###  ●  微信：
-
-> 欢迎关注我的微信：`bcce5360`  
-
-###  ●  微信群：
-
-> **微信群如果不能扫码加入，麻烦大家想进微信群的朋友们，加我微信拉你进群。**
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/JsonChao/Awesome-Android-Performance/master/screenshots/Awesome-WanAndroid2.jpeg" width=35%>
-</div>
-        
-
-###  ●  QQ群：
-
-> 2千人QQ群，**Awesome-Android学习交流群，QQ群号：959936182**， 欢迎大家加入~
-
-
-### About me
-
-- #### Email: [chao.qu521@gmail.com]()
-- #### Blog: [https://jsonchao.github.io/](https://jsonchao.github.io/)
-- #### 掘金: [https://juejin.im/user/5a3ba9375188252bca050ade](https://juejin.im/user/5a3ba9375188252bca050ade)
-    
-    
 ### License
 
 Copyright 2018 JsonChao
